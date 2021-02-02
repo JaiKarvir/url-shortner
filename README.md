@@ -17,7 +17,7 @@ Clone the repository
  
  Install npm modules:
  cd url-shortner
- npm init
+ npm install
  
  Run the application using following command:
  npm run devStart
